@@ -1,5 +1,6 @@
 # godot-encryption-key-extraction
-guide how to extract encryption key for godot engine games (usefull for .pck unencryption)
+guide how to extract encryption key for godot engine games (usefull for .pck unencryption) 
+Tested on Engine Version: 4.4.1
 
 ## Godot engine
 source extraction tool https://github.com/GDRETools/gdsdecomp/releases
